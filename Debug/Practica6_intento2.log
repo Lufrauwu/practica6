@@ -1,0 +1,3 @@
+﻿  Practica6_intento2.cpp
+D:\lufra\Documents\codigo visual\Practica6_intento2\Practica6_intento2.cpp(22,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Practica6_intento2.vcxproj -> D:\lufra\Documents\codigo visual\Practica6_intento2\Debug\Practica6_intento2.exe
